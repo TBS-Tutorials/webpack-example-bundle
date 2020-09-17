@@ -3,6 +3,6 @@ coverage
 bower_components
 
 # We generate these automatically
-dashboard
-extension
-graphics
+/dashboard
+/extension
+/graphics

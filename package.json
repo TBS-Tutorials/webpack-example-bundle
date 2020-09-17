@@ -8,14 +8,16 @@
     "email": "tom@tbsliver.me",
     "url": "https://tbsliver.me"
   },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
   "files": [
     "dashboard",
     "graphics",
-    "extension.js",
     "extension"
   ],
   "keywords": [
-    "",
     "nodecg-bundle"
   ],
   "nodecg": {
@@ -38,5 +40,12 @@
     ]
   },
   "repository": "https://github.com/nodecg/nodecg.git",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.4.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
