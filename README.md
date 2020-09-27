@@ -1,6 +1,6 @@
 # Webpack Example Bundle
 
-This bundle is a conversion of the basic bundle created Yo when you run `yo nodecg`. Feel free to copy any parts of this repository to set up your own webpack bundle!
+This bundle is a conversion of the basic bundle created using Yeoman when you run `yo nodecg`. Feel free to copy any parts of this repository to set up your own webpack bundle! (Just remember to change the Author!)
 
 If you find this useful, let me know in the NodeCG Discord - Find me as TBSliver!
 
