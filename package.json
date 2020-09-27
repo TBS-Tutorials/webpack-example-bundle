@@ -1,5 +1,5 @@
 {
-  "name": "counter-bundle",
+  "name": "webpack-example-bundle",
   "version": "0.0.0",
   "description": "",
   "homepage": "",
@@ -39,7 +39,7 @@
       }
     ]
   },
-  "repository": "https://github.com/nodecg/nodecg.git",
+  "repository": "https://github.com/TBS-Tutorials/webpack-example-bundle.git",
   "license": "MIT",
   "devDependencies": {
     "css-loader": "^4.3.0",

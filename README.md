@@ -1,4 +1,7 @@
-counter-bundle is a [NodeCG](http://github.com/nodecg/nodecg) bundle. 
-It works with NodeCG versions which satisfy this [semver](https://docs.npmjs.com/getting-started/semantic-versioning) range: `^1.1.1`
-You will need to have an appropriate version of NodeCG installed to use it.
+# Webpack Example Bundle
 
+This bundle is a conversion of the basic bundle created Yo when you run `yo nodecg`. Feel free to copy any parts of this repository to set up your own webpack bundle!
+
+If you find this useful, let me know in the NodeCG Discord - Find me as TBSliver!
+
+[![Discord](https://img.shields.io/discord/754749209722486814?label=NodeCG%20Discord&logo=discord)](https://discord.com/invite/GJ4r8a8)
